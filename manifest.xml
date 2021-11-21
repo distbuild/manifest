@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch=".." review="" />
-  <default revision="master" remote="origin" sync-j="1" />
+  <default revision="main" remote="origin" sync-j="1" />
   <project name="cli.git" path="cli" />
   <project name="controller.git" path="controller" />
   <project name="runner.git" path="runner" />
