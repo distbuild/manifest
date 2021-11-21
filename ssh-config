@@ -1,0 +1,4 @@
+Host *
+    Hostname github.com
+    User craftslab
+    IdentityFile ~/.ssh/github-craftslab
