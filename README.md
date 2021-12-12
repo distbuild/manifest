@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*distbuild* is a distributed build service written in Rust.
+*distbuild* is a distributed build service.
 
 
 
