@@ -4,6 +4,7 @@
   <default revision="main" remote="origin" sync-j="1" />
   <project name="cli.git" path="cli" />
   <project name="controller.git" path="controller" />
+  <project name="distbuild.gitbook.io.git" path="distbuild.gitbook.io" />
   <project name="ninjad.git" path="ninjad" />
   <project name="runner.git" path="runner" />
   <project name="scheduler.git" path="scheduler" />
