@@ -5,7 +5,6 @@
   <project name="controller.git" path="controller" />
   <project name="distbuild.github.io.git" path="distbuild.github.io" />
   <project name="ninjad.git" path="ninjad" />
-  <project name="runner.git" path="runner" />
   <project name="scheduler.git" path="scheduler" />
   <project name="storage.git" path="storage" />
   <project name="web.git" path="web" />
