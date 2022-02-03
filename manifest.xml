@@ -2,6 +2,7 @@
 <manifest>
   <remote name="origin" fetch=".." review="" />
   <default revision="main" remote="origin" sync-j="1" />
+  <project name=".github.git" path="github" />
   <project name="controller.git" path="controller" />
   <project name="distbuild.github.io.git" path="distbuild.github.io" />
   <project name="ninjad.git" path="ninjad" />
