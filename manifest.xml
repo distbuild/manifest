@@ -9,6 +9,7 @@
   <project name="runner.git" path="runner" />
   <project name="scheduler.git" path="scheduler" />
   <project name="storage.git" path="storage" />
+  <project name="testing.git" path="testing" />
   <project name="web.git" path="web" />
   <project name="worker.git" path="worker" />
 </manifest>
