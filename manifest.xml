@@ -4,12 +4,12 @@
   <default revision="main" remote="origin" sync-j="1" />
   <project name=".github.git" path="github" />
   <project name="controller.git" path="controller" />
-  <project name="demo.github.io.git" path="demo.github.io" />
+  <project name="demo.git" path="demo" />
   <project name="distbuild.github.io.git" path="distbuild.github.io" />
   <project name="runner.git" path="runner" />
   <project name="scheduler.git" path="scheduler" />
   <project name="storage.git" path="storage" />
-  <project name="testing.github.io.git" path="testing.github.io" />
+  <project name="testing.git" path="testing" />
   <project name="web.git" path="web" />
   <project name="worker.git" path="worker" />
 </manifest>
